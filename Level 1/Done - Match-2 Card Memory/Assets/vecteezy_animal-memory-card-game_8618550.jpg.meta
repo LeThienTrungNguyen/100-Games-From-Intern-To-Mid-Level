@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: 71c9d450e7e3ca54fbf421b6875e4e34
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1172
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda8c77d8b6976744850bdf8f77122e6
+      internalID: -192549364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1172
+        width: 275
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a975d46da4fe62247b06cdd73ba4f0f8
+      internalID: -79526160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_7
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1172
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a736e312b52b2e04dadd17406bfc3016
+      internalID: 817749166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_8
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1173
+        width: 278
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cede29d27c86d46ad9be9820b8439c
+      internalID: 1225962023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_9
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1172
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450b61488d84aac498c2911a577e466e
+      internalID: 12548308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 843
+        width: 280
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36960ed9c72c6474db4f1a9aefdfee09
+      internalID: 1849395044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_11
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 842
+        width: 275
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bd75f9825266346a722dda28518691
+      internalID: 41544270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_12
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 842
+        width: 277
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994d285e293d1ff4fa29e1b8390b3514
+      internalID: 1922510951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_13
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 842
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca66c505775d6f43ac176b3127ae372
+      internalID: -871360535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_14
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 842
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8ea6d2c4fb57f4591acb3c224505a4
+      internalID: 388840062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 510
+        width: 278
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab0ebcdad5ac9143b18c3450425d3c2
+      internalID: 1578345754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_16
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 511
+        width: 278
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2309a9a0ee126384bb3b9def51622cfe
+      internalID: 1486271862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_17
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 511
+        width: 277
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53926c8361667e64697ce03794e1dfe8
+      internalID: 990690240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_18
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 511
+        width: 279
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac56ead6d70cd6469644c9c1e724a32
+      internalID: -1812853472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_19
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 509
+        width: 277
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a2ad5112200e54c872ff80a4af61e3
+      internalID: 343114824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 182
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cf8a5a029761b43836d8fd0be52af6
+      internalID: 786311223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_21
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 182
+        width: 276
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a571cebb457e69649a79069252da2225
+      internalID: 975057118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_22
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 181
+        width: 277
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5a7a07311c41c44aca69933f66001c
+      internalID: -1984156649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_23
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 181
+        width: 278
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0938211d7f27354193f20657a9c759c
+      internalID: -960558858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animal-memory-card-game_8618550_24
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 182
+        width: 276
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff36344e495da147a9dc69f54fc8fc8
+      internalID: 1718782145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vecteezy_animal-memory-card-game_8618550_0: 1875062787
+      vecteezy_animal-memory-card-game_8618550_1: 151413562
+      vecteezy_animal-memory-card-game_8618550_10: 1849395044
+      vecteezy_animal-memory-card-game_8618550_11: 41544270
+      vecteezy_animal-memory-card-game_8618550_12: 1922510951
+      vecteezy_animal-memory-card-game_8618550_13: -871360535
+      vecteezy_animal-memory-card-game_8618550_14: 388840062
+      vecteezy_animal-memory-card-game_8618550_15: 1578345754
+      vecteezy_animal-memory-card-game_8618550_16: 1486271862
+      vecteezy_animal-memory-card-game_8618550_17: 990690240
+      vecteezy_animal-memory-card-game_8618550_18: -1812853472
+      vecteezy_animal-memory-card-game_8618550_19: 343114824
+      vecteezy_animal-memory-card-game_8618550_2: -2067368532
+      vecteezy_animal-memory-card-game_8618550_20: 786311223
+      vecteezy_animal-memory-card-game_8618550_21: 975057118
+      vecteezy_animal-memory-card-game_8618550_22: -1984156649
+      vecteezy_animal-memory-card-game_8618550_23: -960558858
+      vecteezy_animal-memory-card-game_8618550_24: 1718782145
+      vecteezy_animal-memory-card-game_8618550_3: -1945416471
+      vecteezy_animal-memory-card-game_8618550_4: 299895812
+      vecteezy_animal-memory-card-game_8618550_5: -192549364
+      vecteezy_animal-memory-card-game_8618550_6: -79526160
+      vecteezy_animal-memory-card-game_8618550_7: 817749166
+      vecteezy_animal-memory-card-game_8618550_8: 1225962023
+      vecteezy_animal-memory-card-game_8618550_9: 12548308
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
