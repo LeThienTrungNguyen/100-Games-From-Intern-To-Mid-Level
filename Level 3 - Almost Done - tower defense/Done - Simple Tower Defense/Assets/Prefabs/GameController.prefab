@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8130771116801870974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8130771116801870975}
+  - component: {fileID: 8130771116801870972}
+  m_Layer: 0
+  m_Name: GameController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8130771116801870975
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8130771116801870974}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8130771116801870972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8130771116801870974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4973eba2941be7469f5d3810e05c947, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemiesPrefab:
+  - {fileID: 8890326404815831002, guid: 182d5db146572784cbf9379f8b61db71, type: 3}
+  - {fileID: 2043988243649332362, guid: b2d02164a4f9c8b4fa5c57ab23e5fda8, type: 3}
+  - {fileID: 472357173178414745, guid: 9ae0f9cfdfcc7a648a4a24fb27609271, type: 3}
+  - {fileID: 8458541426934022486, guid: 7f9085602a4641042938c10db001257f, type: 3}
+  - {fileID: 4720245515693279342, guid: e7d197e8179d5ff4a86183055ef33f55, type: 3}
+  - {fileID: 760992837563684245, guid: ea9b753f0f447e84fb098e0e590b0f1d, type: 3}
+  - {fileID: 2899523778667316053, guid: db070f3f1245050488bb8f16c0358718, type: 3}
+  - {fileID: 3544818291513342425, guid: 7d3a76f4e7d8d9348b37a722165e5f83, type: 3}
+  - {fileID: 4027755237275311365, guid: cbda2176f61c3b74cac5556fc318bbfc, type: 3}
+  spawnPoint: {fileID: 0}
+  waypoints:
+  - {fileID: 0}
+  - {fileID: 0}
+  timeBetweenWaves: 5
+  highlightPos: {fileID: 0}
+  tilemapMousePos: {x: 0, y: 0}
+  pathTilemap: {fileID: 0}
+  towerPanel: {fileID: 0}
+  choosenPosition: {x: 0, y: 0, z: 0}
