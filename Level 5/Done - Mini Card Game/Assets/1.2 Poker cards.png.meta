@@ -1,0 +1,1487 @@
+fileFormatVersion: 2
+guid: 6cf721d56c490dc4bbd25aa2f5cf56b6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1.2 Poker cards_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdb29ad9a810e544b3b4b78851a7930
+      internalID: -498839287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 321
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5942a4052b1a843b6b6ac732ccd3af
+      internalID: 548169049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 321
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ecd9adf06dad84499cf3238aa9e646
+      internalID: -650688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 321
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1506039f98dae5942a8dd00b02e091a5
+      internalID: -2031607218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 321
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5adf2ffa89a35042a55b27d20d89c52
+      internalID: 1615375481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 321
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7312d18601c4064498f50c1ec223312
+      internalID: -1358180464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 321
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6b3c72d3f725e4ca3b0477c207bafc
+      internalID: 1358785551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 321
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077d03cd0f853a94c9844ec22b28fab3
+      internalID: 711607966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 321
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e960496ce92d69d47ae07bc20491e8a1
+      internalID: 1971791699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 321
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ba83379dc0a6146b47903f37c2e08f
+      internalID: -1615729291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 321
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82501de90c71b1341919904890b0aff7
+      internalID: 929909484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 321
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f14237ee1ca464491196566a3a2910
+      internalID: 1631174639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 321
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f39b064eebef134db952879a0f605f2
+      internalID: 568010460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 321
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5eea87f380ce2c4da62fb2472fc3b3b
+      internalID: -1046690405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 321
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93ee5cc5536a49448ebef9878c31ede
+      internalID: -2091604848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca4eab9df19f0d4eb7d5535206f0422
+      internalID: -692805255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 257
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e454b077e95e4054ebfedf6b78f75aab
+      internalID: -908130055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 257
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf9bbd0b9ef04c439a579046f63edcf
+      internalID: -949863943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 257
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1187cc7f41270ce44a60bc0314f8e581
+      internalID: 1631593628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 257
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38e9d1409b62aa4a93b00d786633654
+      internalID: -1423061866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 257
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f035aa756864944b77b6917771e527
+      internalID: 2095428184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 257
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d235f6f08b5e14aab1f4c33f41a32e
+      internalID: 2024267437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_22
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 257
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2775c1d0e383564ab3a216a497bd729
+      internalID: 2093999370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 257
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8717282f6d1c7134aaa6cb1ff2aa9e5c
+      internalID: -609211901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 257
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b35b18a82826b4a8c19ed64ed26a67
+      internalID: -249265099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 257
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812bc8db94c5a7242aa316378152fbd5
+      internalID: 467478411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 257
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10714b8e71f7dd4b92b8375731f7e39
+      internalID: 435011831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 257
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc6b3cfe5fd2b04ba5d766f5e4cbd4a
+      internalID: 528253409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1ce6c8e5aa0d24898a34a7a54e8919
+      internalID: -2093829641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 193
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0e059323b3872439ec9c79b734aaf8
+      internalID: -2058980130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa490426c24398418920406c0f0172c
+      internalID: 1150644056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 193
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eb6904cbffa614fa3ed1f9e734b990
+      internalID: -1970687968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55096e99a5bc2640a3e7f590175cf7e
+      internalID: -1280606339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 193
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115af7b59ce0bd94db7afda2b9b5da87
+      internalID: 411619070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 193
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990e6f30884ba1040812381df3814a79
+      internalID: -1265856022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 193
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a25df822fe1b94abe9bc9ad626c842
+      internalID: -1835761572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 193
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a408ad8e1d25b6043ab2ac7c77f36a66
+      internalID: -394110541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_37
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 193
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0607f25fce7214d89359a8682e07be
+      internalID: -1162757363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 193
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c59dbc324edb3d4fa5d93c161eee809
+      internalID: -1836931073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 193
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97f1c4eea6ffde46af84bbbb870f378
+      internalID: -1491007432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 193
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587ef3093e56a5a42affcdcf269a9d54
+      internalID: 1890482906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bab593a4b5c7d4583085aaeec83029
+      internalID: 139416380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 129
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2555f5858e9dcd34fa7e189d49b7b85d
+      internalID: -1467664155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 129
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff6097b85c831040a5adae5f1910649
+      internalID: 212062679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 129
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58776bd5c4314894a8f6aca9b476e88e
+      internalID: -481786228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 129
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0149b4f8387594190209ab73e773a8
+      internalID: -923647748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 129
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301aaeae0d3d17448a17c748b770f33f
+      internalID: -511468996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 129
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a632f78e1e99e649861746cbf6b0073
+      internalID: -1263152972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_48
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 129
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d969530facb752b4e8ff668922c45764
+      internalID: 2001847015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 129
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402986664d32659409a256a0c92eb4a2
+      internalID: 1724690092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_50
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 129
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273f7057d7f33e14ebb95e6e4ab92a41
+      internalID: -1633229099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_51
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 129
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957297653228e5a479007fe52b6ba5e3
+      internalID: 2010348055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_52
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 129
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28779fd5c6fb17949ad452837c2c8543
+      internalID: 1119041708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_53
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 129
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92778430fc4dda24f82eda777ad8bab1
+      internalID: 696356446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf48d9cfd23aeb438278ebd67c9cd9e
+      internalID: 1031459633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 65
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5d7c44880245f4bb6540eccf0cd3d8
+      internalID: 875063076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613264399cde9cb48a4daaccffcaeee1
+      internalID: 1063965592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a5fa900000e884a8d9b8c2aa884cf1
+      internalID: 1207261607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 65
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966e29b9ace04ff409aff4df93e46c20
+      internalID: -1449121506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_59
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 65
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c38b39c10d0434bb6a7c9961fc18fa
+      internalID: -1882677408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 65
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089049eacd6688e4c9bfe1c1b3bcaaaf
+      internalID: -1874584245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1.2 Poker cards_61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 65
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbafc2c578c58674fbfab7781fcefb0e
+      internalID: -805025535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 43381d7225fb01243b21516b79e1c979
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1.2 Poker cards_0: -498839287
+      1.2 Poker cards_1: 548169049
+      1.2 Poker cards_10: 929909484
+      1.2 Poker cards_11: 1631174639
+      1.2 Poker cards_12: 568010460
+      1.2 Poker cards_13: -1046690405
+      1.2 Poker cards_14: -2091604848
+      1.2 Poker cards_15: -692805255
+      1.2 Poker cards_16: -908130055
+      1.2 Poker cards_17: -949863943
+      1.2 Poker cards_18: 1631593628
+      1.2 Poker cards_19: -1423061866
+      1.2 Poker cards_2: -650688
+      1.2 Poker cards_20: 2095428184
+      1.2 Poker cards_21: 2024267437
+      1.2 Poker cards_22: 2093999370
+      1.2 Poker cards_23: -609211901
+      1.2 Poker cards_24: -249265099
+      1.2 Poker cards_25: 467478411
+      1.2 Poker cards_26: 435011831
+      1.2 Poker cards_27: 528253409
+      1.2 Poker cards_28: -2093829641
+      1.2 Poker cards_29: -2058980130
+      1.2 Poker cards_3: -2031607218
+      1.2 Poker cards_30: 1150644056
+      1.2 Poker cards_31: -1970687968
+      1.2 Poker cards_32: -1280606339
+      1.2 Poker cards_33: 411619070
+      1.2 Poker cards_34: -1265856022
+      1.2 Poker cards_35: -1835761572
+      1.2 Poker cards_36: -394110541
+      1.2 Poker cards_37: -1162757363
+      1.2 Poker cards_38: -1836931073
+      1.2 Poker cards_39: -1491007432
+      1.2 Poker cards_4: 1615375481
+      1.2 Poker cards_40: 1890482906
+      1.2 Poker cards_41: 139416380
+      1.2 Poker cards_42: -1467664155
+      1.2 Poker cards_43: 212062679
+      1.2 Poker cards_44: -481786228
+      1.2 Poker cards_45: -923647748
+      1.2 Poker cards_46: -511468996
+      1.2 Poker cards_47: -1263152972
+      1.2 Poker cards_48: 2001847015
+      1.2 Poker cards_49: 1724690092
+      1.2 Poker cards_5: -1358180464
+      1.2 Poker cards_50: -1633229099
+      1.2 Poker cards_51: 2010348055
+      1.2 Poker cards_52: 1119041708
+      1.2 Poker cards_53: 696356446
+      1.2 Poker cards_54: 1031459633
+      1.2 Poker cards_55: 875063076
+      1.2 Poker cards_56: 1063965592
+      1.2 Poker cards_57: 1207261607
+      1.2 Poker cards_58: -1449121506
+      1.2 Poker cards_59: -1882677408
+      1.2 Poker cards_6: 1358785551
+      1.2 Poker cards_60: -1874584245
+      1.2 Poker cards_61: -805025535
+      1.2 Poker cards_7: 711607966
+      1.2 Poker cards_8: 1971791699
+      1.2 Poker cards_9: -1615729291
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
