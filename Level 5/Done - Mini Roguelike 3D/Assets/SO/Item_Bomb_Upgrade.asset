@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5409642120fffe4c97e842c6c7bcc05, type: 3}
+  m_Name: Item_Bomb_Upgrade
+  m_EditorClassIdentifier: 
+  itemID: BOMB_RADIUS_UPGRADE
+  itemName: Explosive Power
+  description: A powerful explosive that clears a large area of blocks. Upgrading
+    increases the blast radius.
+  icon: {fileID: 21300000, guid: c817f9b7e22930c429c8f089df1418e7, type: 3}
+  itemType: 2
+  basePrice: 0
+  upgradePrices:
+  - 2500
+  - 10000
+  - 35000
+  dynamicPriceID: 
+  effectValue: 1
+  amountPerPurchase: 5

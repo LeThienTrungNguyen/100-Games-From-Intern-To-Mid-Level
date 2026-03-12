@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5d99d28dd25fef4a93b1fa25332afa8, type: 3}
+  m_Name: Mail_Advanced
+  m_EditorClassIdentifier: 
+  mailType: 2
+  title: "INVITATION: SENIOR EXPERT GROUP"
+  message: "Dear Expert,\n\nBased on your outstanding contributions and superior mining skills, the Board of Directors has approved your promotion to Senior Expert status.\n\nAt this level, you are granted clearance to access complex and rare geological sectors. Rare ores collected will significantly contribute to the overall KPI target, optimizing both personal profit and corporate interest.\n\nWe trust that with your extensive experience, you will continue to achieve great results.\n\nBest regards,\nChief Executive Officer."

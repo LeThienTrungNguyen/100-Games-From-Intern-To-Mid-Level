@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5d99d28dd25fef4a93b1fa25332afa8, type: 3}
+  m_Name: Mail_Bomb_License
+  m_EditorClassIdentifier: 
+  mailType: 6
+  title: '  Official Authorization: Explosives Operational License'
+  message: "`Dear Employee,\r\n\r\n  We are pleased to inform you that your application
+    for an Explosives Operational License has\r\n  been formally approved by the
+    Mining Safety and Oversight Board.\r\n\r\n\r\n  Effective immediately, you are
+    authorized to procure, transport, and utilize mining-grade    \r\n  explosives
+    within designated excavation sectors. This authorization is granted based on
+    your \r\n  current performance record and the operational requirements of your
+    mining contract.         \r\n                                                                                              
+    \r\n                                                                                              
+    \r\n  Please be reminded that the use of high-grade explosives carries significant
+    responsibility.\r\n  You are strictly required to:\r\n   1. Adhere to all structural
+    integrity protocols to prevent unintended shaft collapses.\r\n   2. Ensure clear
+    proximity from the blast radius during detonation.\r\n   3. Manage explosive
+    inventory in accordance with safety regulations.\r\n\r\n  Any violation of safety
+    standards or improper use of authorized equipment will result in\r\n  immediate
+    license revocation and potential contract termination.\r\n\r\n  Operate with
+    caution and efficiency.\r\n\r\n  Best regards,\r\n  Operations Management Team` "

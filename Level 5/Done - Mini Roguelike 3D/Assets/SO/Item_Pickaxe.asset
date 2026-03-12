@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5409642120fffe4c97e842c6c7bcc05, type: 3}
+  m_Name: Item_Pickaxe
+  m_EditorClassIdentifier: 
+  itemID: PICKAXE_UPGRADE
+  itemName: Pickaxe
+  description: Increases your mining damage. Higher levels allow you to break hard
+    blocks much faster.
+  icon: {fileID: 21300000, guid: c5b053029d504404fbfdc3a934063a1a, type: 3}
+  itemType: 2
+  basePrice: 0
+  upgradePrices:
+  - 150
+  - 400
+  - 1000
+  - 2500
+  - 6000
+  - 15000
+  - 40000
+  - 100000
+  - 250000
+  dynamicPriceID: 
+  effectValue: 3.125
+  amountPerPurchase: 1
