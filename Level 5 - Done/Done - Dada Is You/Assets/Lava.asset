@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce5455dad9622674188bad7788c49c24, type: 3}
+  m_Name: Lava
+  m_EditorClassIdentifier: 
+  targetObjectName: lava
+  connectToSameNameOnly: 0
+  connectableExtraNames: []
+  states:
+  - stateName: "0: \u0110\u1EE9ng C\xF4 \u0110\u01A1n (Ko n\u1ED1i)"
+    animationFrames:
+    - {fileID: 21300000, guid: 94b6ff422ee270541bff45af2f60c4d0, type: 3}
+    - {fileID: 21300000, guid: 1370461eaaeaeb54cad3f49f58de5ae5, type: 3}
+    - {fileID: 21300000, guid: 0c6c915d53f271746b7254f9e75361e0, type: 3}
+  - stateName: "1: N\u1ED1i L\xEAn TR\xCAN"
+    animationFrames:
+    - {fileID: 21300000, guid: 7f41f666ea1f1d7469b04256b09f6376, type: 3}
+    - {fileID: 21300000, guid: b1289d3224233ee449539489da8a3cdb, type: 3}
+    - {fileID: 21300000, guid: e31dbea22df53c344a8760027baae189, type: 3}
+  - stateName: "2: N\u1ED1i Sang PH\u1EA2I"
+    animationFrames:
+    - {fileID: 21300000, guid: b49f1b05d1bd229478c499b6bf4a94ca, type: 3}
+    - {fileID: 21300000, guid: 43ba3908a1358644b8212c62552fb62f, type: 3}
+    - {fileID: 21300000, guid: 536f847fe19fd9b418a43076c72b13fe, type: 3}
+  - stateName: "3: M\xE9p G\xF3c (TR\xCAN + PH\u1EA2I)"
+    animationFrames:
+    - {fileID: 21300000, guid: 5ea23d4450d6ceb4c8ea77607bbaa567, type: 3}
+    - {fileID: 21300000, guid: d7fae77c953e95640b76a8887120de8e, type: 3}
+    - {fileID: 21300000, guid: e2abbb55d4f340c43ba746c30bead220, type: 3}
+  - stateName: "4: N\u1ED1i Xu\u1ED1ng D\u01AF\u1EDAI"
+    animationFrames:
+    - {fileID: 21300000, guid: 81c7dbd3b017be048b00479d48022680, type: 3}
+    - {fileID: 21300000, guid: b9be21380a74dd6469d8ce07ef4cd2ee, type: 3}
+    - {fileID: 21300000, guid: ce49013e0e3b4554d970f5f3118b4aba, type: 3}
+  - stateName: "5: \u0110\u01B0\u1EDDng Th\u1EB3ng (TR\xCAN + D\u01AF\u1EDAI)"
+    animationFrames:
+    - {fileID: 21300000, guid: 6b9eb00ec79f70d4884f8e8221991790, type: 3}
+    - {fileID: 21300000, guid: 3eae077904cd86f4b80dd8f14f9f1590, type: 3}
+    - {fileID: 21300000, guid: 18775bd621b4e204eb05da0b2a146519, type: 3}
+  - stateName: "6: M\xE9p G\xF3c (D\u01AF\u1EDAI + PH\u1EA2I)"
+    animationFrames:
+    - {fileID: 21300000, guid: f6d3ca56b759e164e986f8b84563a46c, type: 3}
+    - {fileID: 21300000, guid: dc1cd0bde2a39374386076ad6e177bf8, type: 3}
+    - {fileID: 21300000, guid: d46878f31a3d25547bc1434935b4b82a, type: 3}
+  - stateName: "7: Ng\xE3 3 (TR\xCAN + PH\u1EA2I + D\u01AF\u1EDAI)"
+    animationFrames:
+    - {fileID: 21300000, guid: 340e7c96378a386498b2201aeef9f383, type: 3}
+    - {fileID: 21300000, guid: 74ae3fe10df2ba44989b2ce0226de431, type: 3}
+    - {fileID: 21300000, guid: f2f9fa77cdd30974d9cd78629f6c321a, type: 3}
+  - stateName: "8: N\u1ED1i Sang TR\xC1I"
+    animationFrames:
+    - {fileID: 21300000, guid: 651eab2599e72df40bb3275685681140, type: 3}
+    - {fileID: 21300000, guid: 4608fe3e63f20af4f904e4b2cd39252d, type: 3}
+    - {fileID: 21300000, guid: 74ec934db2574cf4782a2e09c5a67c48, type: 3}
+  - stateName: "9: M\xE9p G\xF3c (TR\xCAN + TR\xC1I)"
+    animationFrames:
+    - {fileID: 21300000, guid: 9302d9c3fcb2043489cd1ddd58eb041c, type: 3}
+    - {fileID: 21300000, guid: bf1e5e119213efc4fba49db7fa7d4dd0, type: 3}
+    - {fileID: 21300000, guid: 0ee13281d1b44054caeb749a146dc21e, type: 3}
+  - stateName: "10: \u0110\u01B0\u1EDDng Th\u1EB3ng (TR\xC1I + PH\u1EA2I)"
+    animationFrames:
+    - {fileID: 21300000, guid: f15913f4d2525014a85762b834705974, type: 3}
+    - {fileID: 21300000, guid: 12c7250dc1f78524397d46ad9b0953f5, type: 3}
+    - {fileID: 21300000, guid: 8734e2042b469244f9b8c19d5bdab75a, type: 3}
+  - stateName: "11: Ng\xE3 3 (TR\xCAN + TR\xC1I + PH\u1EA2I)"
+    animationFrames:
+    - {fileID: 21300000, guid: 3090915a2564d6644a10613b862310b5, type: 3}
+    - {fileID: 21300000, guid: 27e007843ed91ee4ea24daaf797cc9d0, type: 3}
+    - {fileID: 21300000, guid: d27713d6d231d7f48afc5535164898be, type: 3}
+  - stateName: "12: M\xE9p G\xF3c (D\u01AF\u1EDAI + TR\xC1I)"
+    animationFrames:
+    - {fileID: 21300000, guid: 2a9f3ad126595af4eb465d5800126a94, type: 3}
+    - {fileID: 21300000, guid: 831737ea4aa4be244a4c5e0f3aefe119, type: 3}
+    - {fileID: 21300000, guid: 4272842ea07e7374790b74d4ec2f86e3, type: 3}
+  - stateName: "13: Ng\xE3 3 (TR\xCAN + D\u01AF\u1EDAI + TR\xC1I)"
+    animationFrames:
+    - {fileID: 21300000, guid: 804a9f72ba692284cbae580a270fe73e, type: 3}
+    - {fileID: 21300000, guid: 5279e178883e53840824c3dc29a1e260, type: 3}
+    - {fileID: 21300000, guid: b5814ea56752b674d9625bdd1f81fe89, type: 3}
+  - stateName: "14: Ng\xE3 3 (D\u01AF\u1EDAI + TR\xC1I + PH\u1EA2I)"
+    animationFrames:
+    - {fileID: 21300000, guid: 1b5350f0546b9a24c99a53aae9b134a2, type: 3}
+    - {fileID: 21300000, guid: 2586c13363869044ebe965499196bbde, type: 3}
+    - {fileID: 21300000, guid: 974dd3bfdf8eb52468f9cb41c49debd0, type: 3}
+  - stateName: "15: N\u1ED1i \u0110\u1EE7 4 H\u01B0\u1EDBng (Gi\u1EEFa)"
+    animationFrames:
+    - {fileID: 21300000, guid: 800489252a908ec4ba5b20a3148d1e89, type: 3}
+    - {fileID: 21300000, guid: b8a92ff8ae157e04e810db2b0ed79063, type: 3}
+    - {fileID: 21300000, guid: 2162b78c59d02a042b094aab5bb648ce, type: 3}
